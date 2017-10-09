@@ -1,0 +1,10 @@
+#Eclipse
+.settings/
+*.log
+.classpath
+.project
+
+#Project
+bin/
+*.png
+*.jar
