@@ -3,6 +3,8 @@ MergeNim
 MergeNim is a script that create an animation file from different images by putting images next to each others.
 
 ## Use
+You can download the builded script in `builds/`
+
 Put `MergeNim.jar` in the folder where images are located.
 Images need to be hierarchically named to appears in the right order in the output file. (`frame1.png`, `frame2.png`, `frame3.png` for example)
 
